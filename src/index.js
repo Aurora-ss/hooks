@@ -2,7 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import store from './store/store'
+import store from './store'
+// React-Redux这是一个React生态中常用组件，它可以简化Redux流程
 import {Provider} from 'react-redux'
 // import reportWebVitals from './reportWebVitals';
 
